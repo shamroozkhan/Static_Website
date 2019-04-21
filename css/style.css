@@ -1,0 +1,521 @@
+﻿body{
+    background-color:#e3dfdb;
+    font-family: 'Gill Sans' ;
+}
+.header{
+    height:50px;
+    width:100%;
+    background-color:#000000;
+}
+.logo {
+    height: 6%;
+    width: 6%;
+    float: left;
+    margin-left: 30px;
+}
+.navli{
+    display:inline;
+    margin: 10px;
+}
+a{
+    color: #ffffff;
+    text-decoration:none;
+}
+a:hover{
+    color: red;
+    text-decoration:none;
+}
+
+.navul{
+    margin-left:870px;
+    position:relative;
+    top:20px;
+}
+.postajob{
+    background-color: #848689;
+    padding:10px;
+}
+.signup{
+    background-color: #848689;
+    padding:10px;
+}
+.signupjobbutton{
+
+}
+
+.slider{
+    width:100%;
+    height:400px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+}
+
+.searchbox {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height:30px;
+    width: 40%;
+    font-size:15px;
+    padding-left: 5px;
+}
+
+.searchboxbtn {
+    line-height:40px;
+    position: absolute;
+    top: 55%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+    height:38px;
+    width: 8%;
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+}
+.title{
+    line-height:40px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-size:50px;
+}
+.pic0{
+    position: relative;
+    margin-top:20px;
+    left: 5%;
+    height: 100px;
+    width: 130px;
+
+}
+.pic1{
+    position: relative;
+    margin-top:20px;
+    left: 3.5%;
+    height: 100px;
+    width: 130px;
+}
+.pic2{
+    position: relative;
+    margin-top:20px;
+    left: 3.5%;
+    height: 100px;
+    width: 130px;
+}
+.pic3 {
+    position: relative;
+    margin-top: 20px;
+    left: 3.5%;
+    height: 100px;
+    width: 130px;
+}
+.pic4{
+    position: relative;
+    margin-top:20px;
+    left: 3.5%;
+    height: 100px;
+    width: 130px;
+}
+.pic5{
+    position: relative;
+    margin-top:20px;
+    left: 3.5%;
+    height: 100px;
+    width: 130px;
+}
+.pic6{
+    position: relative;
+    margin-top:20px;
+    left: 3.5%;
+    height: 100px;
+    width: 130px;
+}
+.pic7{
+    position: relative;
+    margin-top:20px;
+    left: 3.5%;
+    height: 100px;
+    width: 130px;
+}
+.pic8{
+    position: relative;
+    margin-top:20px;
+    left: 2%;
+    height: 100px;
+    width: 130px;
+}
+.picsdata{
+    text-align:center;
+}
+.picstable{
+    margin-left:45px;
+}
+.jobscontainer{
+    position: relative;
+    margin-top:20px;
+    background-color:#bdbdbd;
+    height:453px;
+    width:655px;
+}
+.jobtable{
+    position:relative;
+    top:20px;
+    left:20px;
+}
+.jobth{
+    border: 1px solid #665544;
+    position:relative;
+    left:20px;
+    height:30px;
+    width:100px;
+    background-color:#848689;
+    color: #ffffff;
+    padding: 10px;
+}
+.jobsul{
+    position:relative;
+    top:20px;
+    list-style:none;
+}
+
+.jobsul2{
+    position: absolute;;
+    top:45px;
+    list-style:none;
+    left: 320px;
+}
+.companycontainer{
+    position: absolute;
+    top: 670px;
+    left: 680px;
+    background-color:#bdbdbd;
+    height:453px;
+    width:655px;
+}
+.companydata{
+    border: 1px solid #665544;
+    position:relative;
+    left:20px;
+    padding:7px;
+    width: 150px;
+    background-color:#848689;
+    font-size:20px;
+    color:#ffffff;
+}
+
+.companypics{
+    position: relative;
+    left: 3.5%;
+    top: 30px;
+    height: 100px;
+    width: 150px;
+}
+.footer{
+    color:#ffffff; 
+    background-color: #242424;
+    height:300px;
+    width:100%;
+    position:relative;
+    top:15px;
+}
+.footerimg{
+    position:relative;
+    top:50px;
+    left:30px;
+    height:200px;
+    width:300px;
+}
+.footertable{
+    position:absolute;
+    top:80px;
+    left:350px;
+}
+
+.footerth1{
+    margin-left: 95px;
+    font-size: 30px;
+}
+
+.footerth2{
+    margin-left: 100px;
+
+}
+.footerth3{
+    margin-left: 100px;
+
+}
+.footerth4{
+    margin-left: 100px;
+
+}
+#serv{
+    margin-left: 50px;
+}
+#cntc{
+    margin-left: 140px;
+}
+#int{
+    margin-left: 110px;
+
+}
+#num{
+    margin-left: 145px;
+}
+#dta{
+    margin-left: 115px;
+}
+#info{
+    margin-left: 130px;
+}
+.copyright{
+    background-color: #000000;
+    color: #ffffff;
+    text-align:center;
+    padding:20px;
+}
+
+
+
+/*//////###################################      ABOUT          ###################//////////////*/
+
+
+
+.welcome{
+    text-align:center;
+    text-decoration: underline;
+}
+.welcomequote{
+    text-align:center;
+    font-size:20px;
+}
+.welcomeimg{
+    float:right;
+    width:700px;
+    height:500px;
+    margin-top:5px;
+}
+.welcomediv{
+    height:500px;
+    width:620px;
+    background-color:#ffffff;
+}
+.welcometext{
+    line-height:30px;
+    font-size:25px;
+    padding:60px;
+}
+
+.vision{
+    text-align:center;
+    position:relative;
+    top:60px;
+}
+
+.button{
+    background-color: #000000;
+    border: none;
+    color: #ffffff;
+    margin-left: 5px;
+}
+
+/*##########################     CONTACT FORM    ################*/
+
+
+.contacttext1{
+    position:relative;
+    top:35px;
+    font-size:30px;
+    text-align:center;
+    margin-left:550px;
+}
+.contacttext2{
+    position:relative;
+    top: -30px;
+    font-size:30px;
+    text-align:center;
+    margin-right:750px;
+}
+.contactform{
+    height:500px;
+    width:710px;
+    background-color: #848689;
+    position:absolute;
+    top:230px;
+    left:625px;
+}
+
+.contactformcontent{
+    position:relative;
+    left:40px;
+}
+
+.fname{
+    position:relative;
+    top:40px;
+    left:30px;
+}
+#fname{
+    height:7%;
+    width:80%;
+}
+.fsname{
+    font-size:20px;
+}
+
+.lname{
+    position:relative;
+    top:50px;
+    left:30px;
+}
+#lname{
+    height:7%;
+    width:80%;
+}
+.lsname{
+    font-size:20px;
+}
+
+.country{
+    position:relative;
+    top:60px;
+    left:30px;
+}
+#country{
+    height:7%;
+    width:80%;
+    font-size: 20px;
+}
+.scountry{
+    font-size:20px;
+}
+
+.textarea{
+    position:relative;
+    top:70px;
+    left:30px;
+}
+.textarea2{
+    font-size: 20px;
+}
+#textarea{
+    padding:20px;
+    height: 130px;
+    width: 75%;
+}
+
+.button{
+    position:relative;
+    left:450px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:40px;
+    padding-right:40px;
+}
+
+/*/#########################       MAP     #######################         */
+.mapouter {
+    text-align: right;
+    height: 500px;
+    width: 600px;
+    margin-top:-50px;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 500px;
+    width: 600px;
+}
+
+/* .postjobdiv{
+    margin-left: 30%;
+    height: 500px;
+    width: 620px;
+    background-color: #ffffff;
+} */
+/*##################             POst Job            ###############*/
+.jobform{
+    height:600px;
+    width:710px;
+    background-color: #848689;
+    position:relative;
+    top:10px;
+    left:300px;
+}
+
+.city{
+    position:relative;
+    top:80px;
+    left:30px;
+}
+
+.functionalarea{
+    position:relative;
+    top:90px;
+    left:30px;
+}
+
+.minex{
+    position:relative;
+    top:60px;
+    left:30px;
+}
+#minex{
+    height:7%;
+    width:80%;
+}
+.minexs{
+    font-size:20px;
+}
+
+.jname{
+    position:relative;
+    top:70px;
+    left:30px;
+}
+#jname{
+    height:7%;
+    width:80%;
+}
+.jnames{
+    font-size:20px;
+}
+
+#fileToUpload{
+    position: relative;
+    top: 110px;
+    left: 70px;
+    font-size: 20px;
+}
+
+.postjobbutton{
+    position:relative;
+    top: 110px;
+    left:135px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:40px;
+    padding-right:40px;
+    background-color: #000000;
+    border: none;
+    color: #ffffff;
+}
+
+
+.signupbutton{
+    position:relative;
+    top: 110px;
+    left:515px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:40px;
+    padding-right:40px;
+    background-color: #000000;
+    border: none;
+    color: #ffffff;
+}
